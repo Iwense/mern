@@ -1,0 +1,15 @@
+{
+  "name": "first_project_from_book",
+  "version": "1.0.0",
+  "description": "mern app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mern",
+    "react"
+  ],
+  "author": "Grishin Alexander <grishin057@gmail.com>",
+  "license": "ISC"
+}
